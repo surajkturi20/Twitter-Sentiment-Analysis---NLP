@@ -1,6 +1,9 @@
 # Twitter Sentiment Analysis - NLP
+This project focuses on performing sentiment analysis on Twitter data using Natural Language Processing (NLP) techniques. The goal is to classify tweets as positive, negative, or neutral based on the sentiment expressed in the text.
 
-**Complete Video Tutorial:** https://youtu.be/RLfUyn3HoaE
+# Overview
+The Twitter Sentiment Analysis project utilizes Python and various libraries to preprocess, analyze, and visualize Twitter data. The main steps involved in the project include
+1.Data Collection: using pre-collected datasets
 
 # Dataset Information
 
